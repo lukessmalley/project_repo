@@ -1,1 +1,3 @@
 # Lesson Test
+
+var = "variable"
